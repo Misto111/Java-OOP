@@ -1,2 +1,2 @@
 # Java-OOP
-This is repository with solutions of problems in SoftUni course: Java OOP-2023
+This is repository with solutions of problems in course: Java OOP-2023
